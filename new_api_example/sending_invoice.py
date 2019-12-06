@@ -33,7 +33,7 @@ def payment(bot, update):
     return ConversationHandler.END
 
 
-updater = Updater(token='Token',
+updater = Updater(token='Token',2af1e1d4ce5e5d98b84fe7747fcdb887293b7402
                   base_url="https://tapi.bale.ai/")
 
 conversation_handler = ConversationHandler(
