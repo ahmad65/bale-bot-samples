@@ -55,3 +55,4 @@ updater.start_polling(poll_interval=2)
 #                       url_path=os.getenv('WEB_HOOK_PATH', ""))
 # updater.bot.set_webhook(url="{}{}".format(os.getenv('WEB_HOOK_DOMAIN', ""), os.getenv('WEB_HOOK_PATH', "")))
 updater.idle()
+2af1e1d4ce5e5d98b84fe7747fcdb887293b7402
